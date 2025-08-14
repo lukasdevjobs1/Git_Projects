@@ -1,9 +1,9 @@
 # 🚀 Daily Coding Projects Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/lukasdevjobs1/Projects_for_GitHub?style=social)](https://github.com/lukasdevjobs1/Projects_for_GitHub/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/lukasdevjobs1/Projects_for_GitHub?style=social)](https://github.com/lukasdevjobs1/Projects_for_GitHub/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/lukasdevjobs1/Projects_for_GitHub)](https://github.com/lukasdevjobs1/Projects_for_GitHub/issues)
-[![GitHub license](https://img.shields.io/github/license/lukasdevjobs1/Projects_for_GitHub)](https://github.com/lukasdevjobs1/Projects_for_GitHub/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/lukasdevjobs1/Git_projects?style=social)](https://github.com/lukasdevjobs1/Git_projects/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/lukasdevjobs1/Git_projects?style=social)](https://github.com/lukasdevjobs1/Git_projects/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/lukasdevjobs1/Git_projects)](https://github.com/lukasdevjobs1/Git_projects/issues)
+[![GitHub license](https://img.shields.io/github/license/lukasdevjobs1/Git_projects)](https://github.com/lukasdevjobs1/Git_projects/blob/main/LICENSE)
 
 > **Daily coding challenges and projects to showcase programming skills and continuous learning journey**
 
@@ -70,10 +70,10 @@ git --version
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/lukasdevjobs1/Projects_for_GitHub.git
+git clone https://github.com/lukasdevjobs1/Git_projects.git
 
 # Navigate to project directory
-cd Projects_for_GitHub
+cd Git_projects
 
 # Install dependencies (varies by project)
 pip install -r requirements.txt
