@@ -26,6 +26,13 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 
 *A modern web-based to-do list application with task tracking, completion status, and analytics dashboard.*
 
+### 🎮 [Hangman Game](./hangman_game.py)
+**Technologies**: Python, Requests API  
+**Features**: Word guessing game with hints, scoring system, dictionary API integration  
+**Status**: ✅ Complete
+
+*Interactive hangman game with word definitions as hints, progressive difficulty, and point-based scoring system.*
+
 ---
 
 ## 🔧 Technologies & Skills
