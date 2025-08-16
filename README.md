@@ -33,6 +33,13 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 
 *Interactive hangman game with word definitions as hints, progressive difficulty, and point-based scoring system.*
 
+### 🔄 [Unit Converter](./unit_converter.py)
+**Technologies**: Python, Tkinter  
+**Features**: Temperature & distance conversion, GUI interface, error handling  
+**Status**: ✅ Complete
+
+*Desktop application for converting between Celsius/Fahrenheit and Kilometers/Miles with intuitive GUI.*
+
 ---
 
 ## 🔧 Technologies & Skills
@@ -46,6 +53,7 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 ### Frameworks & Libraries
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -101,7 +109,7 @@ python project_name.py
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| Week 1 | ✅ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+| Week 1 | ✅ | ✅ | ✅ | ⏳ | ⏳ | ⏳ | ⏳ |
 
 **Legend**: ✅ Complete | ⏳ Planned | 🚧 In Progress
 
