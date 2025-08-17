@@ -1,17 +1,35 @@
 # 📝 To-Do List Application
 
-A modern web-based task management application built with Streamlit, featuring real-time statistics and interactive task management.
+A modern, interactive web-based task management application built with Python and Streamlit.
 
-## ✨ Features
+## 🚀 Features
 
-- **Task Management**: Add, complete, and remove tasks with ease
-- **Interactive UI**: Clean, intuitive web interface powered by Streamlit
-- **Real-time Statistics**: Live tracking of total, completed, and pending tasks
-- **Data Persistence**: Tasks persist during the session using Streamlit's session state
-- **Bulk Operations**: Clear all tasks with a single click
-- **Visual Feedback**: Success and error messages for all operations
+### Core Functionality
+- ✅ **Add Tasks**: Create tasks with names and detailed descriptions
+- ✅ **Interactive Checkboxes**: Click to mark tasks as complete/incomplete
+- ✅ **Task Removal**: Individual delete buttons for each task
+- ✅ **Real-time Updates**: Instant UI refresh after actions
 
-## 🚀 Getting Started
+### Enhanced User Experience
+- 🎉 **Celebration Animation**: Balloons animation when completing tasks
+- 📋 **Dual View**: See all tasks and filtered pending tasks
+- 🎨 **Visual Feedback**: Strikethrough styling for completed tasks
+- 📊 **Statistics Dashboard**: Track total, completed, and pending tasks
+
+### Interface Features
+- 📱 **Responsive Layout**: Clean column-based design
+- 🗑️ **Bulk Actions**: Clear all tasks option
+- 💾 **Session Persistence**: Tasks saved during browser session
+- 🔄 **Auto-refresh**: Seamless state management
+
+## 🛠️ Technologies Used
+
+- **Python 3.8+**
+- **Streamlit**: Web framework for interactive applications
+- **Pandas**: Data manipulation and storage
+- **Session State**: For data persistence
+
+## 📦 Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -23,59 +41,65 @@ pip install streamlit pandas
 streamlit run to_do_list.py
 ```
 
-The application will open in your default web browser at `http://localhost:8501`
+The application will open in your default browser at `http://localhost:8501`
 
 ## 🎯 How to Use
 
-1. **Add Tasks**: Enter a task description and click "To add Task"
-2. **View Tasks**: All tasks are displayed in a clean table format
-3. **Complete Tasks**: Select a task from the dropdown and mark as completed
-4. **Remove Tasks**: Select a task from the dropdown and remove it
-5. **Monitor Progress**: Check real-time statistics in the dashboard
-6. **Clear All**: Use the "Clear All Tasks" button to reset your list
+1. **Add a Task**: Enter task name and description, click "Add Task"
+2. **Mark Complete**: Click the checkbox next to any task
+3. **Remove Task**: Click the 🗑️ button to delete a task
+4. **View Progress**: Check statistics in the dashboard
+5. **Clear All**: Use "Clear All Tasks" to reset the list
 
-## 📊 Statistics Dashboard
+## 📊 Application Structure
 
-The application provides real-time metrics:
-- **Total Tasks**: Overall number of tasks created
-- **Completed Tasks**: Number of finished tasks
-- **Pending Tasks**: Remaining tasks to complete
+```
+to_do_list.py
+├── Session State Management
+├── Task Functions (add, remove, mark_complete)
+├── User Interface
+│   ├── Task Input Form
+│   ├── Interactive Task List
+│   ├── Pending Tasks View
+│   └── Statistics Dashboard
+└── Data Persistence (Pandas DataFrame)
+```
 
-## 🛠️ Technologies Used
+## 🔄 Version History
 
-- **Python 3.x**: Core programming language
-- **Streamlit**: Web application framework
-- **Pandas**: Data manipulation and storage
-- **Session State**: Data persistence during app session
+### Version 2.0 (Current)
+- Added task descriptions
+- Interactive checkbox interface
+- Celebration animations
+- Separate pending tasks view
+- Enhanced visual styling
+- English language interface
 
-## 🔧 Technical Features
+### Version 1.0
+- Basic task addition and removal
+- Simple list display
+- Portuguese interface
 
-- **DataFrame Storage**: Uses Pandas DataFrame for efficient task management
-- **Session Persistence**: Tasks remain available throughout the browser session
-- **Input Validation**: Prevents empty tasks from being added
-- **Error Handling**: User-friendly error messages and success notifications
-- **Responsive Design**: Clean, modern interface that works on different screen sizes
+## 🎨 UI Components
 
-## 📱 User Interface
+- **Task Cards**: Checkbox + Name + Description + Delete button
+- **Statistics Metrics**: Total, Completed, Pending counters
+- **Action Buttons**: Add, Remove, Clear All
+- **Status Indicators**: Visual feedback for task states
 
-The application features:
-- Clean, minimalist design
-- Intuitive task input field
-- Interactive dropdown menus for task selection
-- Color-coded buttons for different actions
-- Real-time statistics cards
-- Responsive layout with proper spacing
+## 🚀 Future Enhancements
 
-## 🔄 Future Enhancements
+- [ ] Task categories/tags
+- [ ] Due dates and reminders
+- [ ] Task priority levels
+- [ ] Export/Import functionality
+- [ ] Dark/Light theme toggle
+- [ ] Task search and filtering
 
-Potential improvements could include:
-- Task categories and tags
-- Due date functionality
-- Task priority levels
-- Data export capabilities
-- User authentication
-- Database persistence
+## 📄 License
+
+This project is part of the Daily Coding Projects portfolio and is available under the MIT License.
 
 ---
 
-*Part of the Daily Coding Projects Portfolio*
+*Built with ❤️ as part of the daily coding challenge*
