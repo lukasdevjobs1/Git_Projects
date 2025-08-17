@@ -40,6 +40,13 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 
 *Desktop application for converting between Celsius/Fahrenheit and Kilometers/Miles with intuitive GUI.*
 
+### 🔐 [Secure Password Generator](./passwords_generator.py)
+**Technologies**: Python, Cryptography, Argparse  
+**Features**: Cryptographically secure passwords, encryption support, CLI interface, security hardening  
+**Status**: ✅ Complete
+
+*Command-line password generator with Fernet encryption, customizable length, special characters, and secure file storage.*
+
 ---
 
 ## 🔧 Technologies & Skills
@@ -54,6 +61,7 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -69,6 +77,7 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 - **📊 Data Analysis**: Data visualization and analytics projects
 - **🎮 Games & Entertainment**: Fun interactive applications
 - **🔧 Utilities**: Helpful tools and utilities
+- **🔐 Security Tools**: Cryptography and security-focused applications
 - **📱 Mobile-First**: Responsive and mobile-optimized applications
 
 ## 🚀 Getting Started
@@ -109,7 +118,7 @@ python project_name.py
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| Week 1 | ✅ | ✅ | ✅ | ✅ | ⏳ | ⏳ | ⏳ |
+| Week 1 | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳ | ⏳ |
 
 **Legend**: ✅ Complete | ⏳ Planned | 🚧 In Progress
 
