@@ -47,6 +47,13 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 
 *Command-line password generator with Fernet encryption, customizable length, special characters, and secure file storage.*
 
+### 🔗 [URL Shortener](./url_shortener.py)
+**Technologies**: Python, Streamlit, Requests, TinyURL API  
+**Features**: URL validation, real-time shortening, copy functionality, reduction statistics, error handling  
+**Status**: ✅ Complete
+
+*Web-based URL shortener with TinyURL API integration, featuring clean interface, robust validation, and performance metrics.*
+
 ---
 
 ## 🔧 Technologies & Skills
@@ -118,7 +125,7 @@ python project_name.py
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| Week 1 | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳ | ⏳ |
+| Week 1 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 **Legend**: ✅ Complete | ⏳ Planned | 🚧 In Progress
 
@@ -163,6 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you find it helpful!**
 
-*Last Updated: $(date)*
+*Last Updated: December 2024*
 
 > "The only way to do great work is to love what you do." - Steve Jobs
