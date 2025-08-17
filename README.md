@@ -21,10 +21,10 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 
 ### 📝 [To-Do List Application](./to_do_list.py)
 **Technologies**: Python, Streamlit, Pandas  
-**Features**: Task management, real-time statistics, interactive UI  
+**Features**: Interactive checkboxes, task descriptions, real-time statistics, animated UI, pending tasks filter  
 **Status**: ✅ Complete
 
-*A modern web-based to-do list application with task tracking, completion status, and analytics dashboard.*
+*Enhanced web-based to-do list with interactive checkboxes, task descriptions, celebration animations, and separate pending tasks view for better task management.*
 
 ### 🎮 [Hangman Game](./hangman_game.py)
 **Technologies**: Python, Requests API  
@@ -109,7 +109,7 @@ python project_name.py
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| Week 1 | ✅ | ✅ | ✅ | ⏳ | ⏳ | ⏳ | ⏳ |
+| Week 1 | ✅ | ✅ | ✅ | ✅ | ⏳ | ⏳ | ⏳ |
 
 **Legend**: ✅ Complete | ⏳ Planned | 🚧 In Progress
 
