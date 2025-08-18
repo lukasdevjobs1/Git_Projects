@@ -45,13 +45,13 @@ class URLShortener:
 def main():
     """Main Streamlit application"""
     st.set_page_config(
-        page_title="🔗 URL Shortener",
+        page_title="🔗 URL ShortzUrl",
         page_icon="🔗",
         layout="centered"
     )
     
-    st.title("🔗 URL Shortener")
-    st.markdown("*Simple and fast URL shortening service*")
+    st.title("🔗 URL ShortzUrl ")
+    st.markdown("*Simple and fast ShotzUrl - service*")
     
     # Input section
     with st.container():

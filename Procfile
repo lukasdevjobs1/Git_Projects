@@ -1,0 +1,1 @@
+web: streamlit run url_shortener.py --server.port=$PORT --server.address=0.0.0.0
