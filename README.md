@@ -47,10 +47,10 @@ Welcome to my **Daily Coding Projects** repository! This is where I commit to bu
 
 *Command-line password generator with Fernet encryption, customizable length, special characters, and secure file storage.*
 
-### 🔗 [URL Shortener](./url_shortener.py)
+### 🔗 [URL Shortener](./url_shortener.py) | [🌐 Live Demo](https://shortzurl.streamlit.app/)
 **Technologies**: Python, Streamlit, Requests, TinyURL API  
 **Features**: URL validation, real-time shortening, copy functionality, reduction statistics, error handling  
-**Status**: ✅ Complete
+**Status**: ✅ Complete | 🚀 **LIVE**
 
 *Web-based URL shortener with TinyURL API integration, featuring clean interface, robust validation, and performance metrics.*
 
