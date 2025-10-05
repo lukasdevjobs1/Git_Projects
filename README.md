@@ -146,7 +146,7 @@ While this is primarily a personal learning repository, I welcome:
 
 ## 📊 Repository Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasdevjobs1&show_icons=true&theme=dark)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdevjobs1&layout=compact&theme=dark)
 
@@ -170,6 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you find it helpful!**
 
-*Last Updated: December 2024*
+*Last Updated: December 2025
 
 > "The only way to do great work is to love what you do." - Steve Jobs
